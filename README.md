@@ -2,7 +2,7 @@
 
 Bot Telegram yang otomatis mengirim reminder berita ekonomi AS dengan dampak tinggi (3 bintang).
 
-## Fitur
+- Fitur
 - 📅 **Rekap mingguan** setiap Senin pukul 07:00 WIB
 - 🔔 **Reminder harian** Senin–Jumat pukul 07:30 WIB *(hanya jika ada event hari itu)*
 - 🔍 Filter khusus **USD + High Impact** dari ForexFactory
