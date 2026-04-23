@@ -8,7 +8,7 @@ Bot Telegram yang otomatis mengirim reminder berita ekonomi AS dengan dampak tin
 - 🔍 Filter khusus **USD + High Impact** dari ForexFactory
 - ℹ️ Menampilkan: Nama event, waktu WIB, Forecast, Previous, Actual
 
-- Commands Bot
+  Commands Bot
 | Command | Fungsi |
 |---------|--------|
 | `/start` | Subscribe & mulai terima reminder |
