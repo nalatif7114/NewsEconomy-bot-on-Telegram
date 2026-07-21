@@ -1,12 +1,12 @@
-# 📊 US Economic News Bot — High Impact ⭐⭐⭐
+# 📊 US Economic News Bot — High Impact 
 
 Bot Telegram yang otomatis mengirim reminder berita ekonomi AS dengan dampak tinggi (3 bintang).
 
 - Fitur
-- 📅 **Rekap mingguan** setiap Senin pukul 07:00 WIB
-- 🔔 **Reminder harian** Senin–Jumat pukul 07:30 WIB *(hanya jika ada event hari itu)*
-- 🔍 Filter khusus **USD + High Impact** dari ForexFactory
-- ℹ️ Menampilkan: Nama event, waktu WIB, Forecast, Previous, Actual
+-  **Rekap mingguan** setiap Senin pukul 07:00 WIB
+-  **Reminder harian** Senin–Jumat pukul 07:30 WIB *(hanya jika ada event hari itu)*
+-  Filter khusus **USD + High Impact** dari ForexFactory
+-  Menampilkan: Nama event, waktu WIB, Forecast, Previous, Actual
 
   Commands Bot
 | Command | Fungsi |
@@ -70,11 +70,11 @@ BOT_TOKEN=1234567890:AAFxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 python bot.py
 ```
 
-Seharusnya muncul output:
+lalu muncul output:
 ```
-✅ Bot started! Scheduler aktif.
-   📅 Weekly recap : Senin 07:00 WIB
-   🔔 Daily reminder: Senin–Jumat 07:30 WIB
+ Bot started! Scheduler aktif.
+    Weekly recap : Senin 07:00 WIB
+    Daily reminder: Senin–Jumat 07:30 WIB
 ```
 
 ### 8. Test bot
@@ -130,6 +130,8 @@ sudo systemctl start econbot
 ## Sumber Data
 - **ForexFactory** JSON feed (`nfs.faireconomy.media`)
 - Update otomatis setiap minggu dari sumber
+
+Enjoy.
 
 ## Catatan
 - Data tersedia mulai Minggu malam untuk minggu berikutnya
