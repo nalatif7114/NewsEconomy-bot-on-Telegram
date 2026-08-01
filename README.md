@@ -1,4 +1,4 @@
-# 📊 US Economic News Bot — High Impact 
+#  US Economic News Bot — High Impact 
 
 Bot Telegram yang otomatis mengirim reminder berita ekonomi AS dengan dampak tinggi (3 bintang).
 
