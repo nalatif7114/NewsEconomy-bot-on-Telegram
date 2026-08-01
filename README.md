@@ -137,3 +137,4 @@ Enjoy.
 - Data tersedia mulai Minggu malam untuk minggu berikutnya
 - Waktu ditampilkan dalam **WIB (UTC+7)**
 - Hanya event **USD + High Impact** yang ditampilkan
+#GOODLUCK
