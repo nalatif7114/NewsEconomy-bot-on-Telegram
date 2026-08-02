@@ -123,7 +123,7 @@ sudo systemctl start econbot
 - Set environment variable `BOT_TOKEN`
 - Start command: `python bot.py`
 
-### Opsi C: PC rumah (tidak disarankan untuk 24/7)
+
 
 ---
 
